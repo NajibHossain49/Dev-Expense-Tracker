@@ -21,7 +21,7 @@ DevExpenseTracker is a modern, web-based expense tracker designed specifically f
 
 ## Demo
 
-You can view a live demo of DevExpenseTracker [here](#)
+You can view a live demo of DevExpenseTracker [here](https://dextrack.netlify.app)
 
 ## Technologies Used
 - **React** – For building the user interface and managing the state.
